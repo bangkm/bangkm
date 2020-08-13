@@ -6,8 +6,7 @@
  - Flask
  - Android with Kotlin
 
-
-
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kmbang04@gmail.com)](mailto:kmbang04@gmail.com)
 
 <!--**bangkm/bangkm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!--
