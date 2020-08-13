@@ -2,7 +2,6 @@
 - iOS Develpoer in Atommerce Inc. (Healthcare Service - Psychology counsel)
 
 ## Interest
- - Currently I'm building my own application 
  - Flask
  - Android with Kotlin
 
