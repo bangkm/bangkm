@@ -1,8 +1,8 @@
 ## Software Engineer
 - iOS Develpoer in Atommerce Inc. (Healthcare Service - Psychology counsel)
 
-## Interest
- - Flask
+## Studying
+ - Python, Flask
  - Android with Kotlin
 
 [![Github Blog Badge](https://img.shields.io/badge/-Blog-black?logo=github)](https://bangkm.github.io)
