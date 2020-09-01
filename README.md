@@ -1,5 +1,5 @@
 ## Software Engineer
-- iOS Develpoer in Atommerce Inc. (Healthcare Service - Psychology counsel)
+- iOS
 
 ## Studying
  - Python, Flask
