@@ -1,9 +1,7 @@
-## Software Engineer
-- iOS
+## Software Engineer ( iOS )
 
 ## Studying
  - Python, Flask
- - Android with Kotlin
 
 [![Github Blog Badge](https://img.shields.io/badge/-Blog-black?logo=github)](https://bangkm.github.io)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kmbang04@gmail.com)](mailto:kmbang04@gmail.com)
